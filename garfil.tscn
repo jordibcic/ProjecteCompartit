@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://GARFIL.jpg" type="Texture" id=1]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="garfil" type="Sprite" parent="."]
+position = Vector2( 316, 174 )
+scale = Vector2( 0.253125, 0.230556 )
+texture = ExtResource( 1 )
